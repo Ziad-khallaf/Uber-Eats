@@ -17,6 +17,13 @@ The project consists of:
 - Dashboard creation with Power BI
 ---
 
+## 📊 Dashboard View
+
+Here's a glimpse of the interactive Power BI dashboard:
+
+![Uber Eats Dashboard](![REPORT](https://github.com/user-attachments/assets/a9acf3f3-cb8d-4a8e-99c6-5666cea5db68)[Uber_Eats_EDA.pdf](https://github.com/user-attachments/files/20410705/Uber_Eats_EDA.pdf))
+
+
 ## 📈 Key Insights
 
 - **Total Restaurants**: 40,000
