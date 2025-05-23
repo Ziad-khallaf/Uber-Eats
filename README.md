@@ -52,6 +52,12 @@ Here's a glimpse of the interactive Power BI dashboard:
 
 - Most restaurants are located in central and eastern U.S.
 
+### Price Categories 
+- $   ---> Budget-Friendly - Cheap
+- $$  ---> Mid-Range
+- $$$ ---> Expensive
+- $$$ ---> Very Expensive - Luxury
+
 ---
 
 ## ✅ Recommendations
