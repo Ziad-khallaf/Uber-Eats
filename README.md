@@ -1,5 +1,6 @@
 # 📊 Uber Eats Analysis
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg) ![Power BI](https://img.shields.io/badge/Power%20BI-Report-orange.svg) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-blue.svg) ![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-green.svg)
 Welcome to my data analytics project focused on Uber Eats! This project showcases the process of data cleaning, exploratory data analysis (EDA), and visual insights using both Python and Power BI.
 
 ---
@@ -13,21 +14,6 @@ The project consists of:
 - Data cleaning and preprocessing using Python (Pandas, NumPy)
 - Data Visual EDA with Matplotlib and Seaborn
 - Dashboard creation with Power BI
-
----
-
-## 🔧 Tools & Technologies Used
-
-| Tool             | Version   |
-| ---------------- | --------- |
-| Python           | 3.7       |
-| Jupyter Notebook | latest    |
-| Pandas           | 2.0+      |
-| NumPy            | 1.25+     |
-| Matplotlib       | 3.7+      |
-| Seaborn          | 0.12+     |
-| Power BI         | Feb 2024  |
-
 ---
 
 ## 📈 Key Insights
