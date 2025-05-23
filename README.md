@@ -20,7 +20,7 @@ The project consists of:
 ## 📊 Dashboard View
 
 Here's a glimpse of the interactive Power BI dashboard:
-![Dashboard Preview](![REPORT](https://github.com/user-attachments/assets/b046ceee-6dab-411e-af7f-c8405807029f))
+![Dashboard](https://github.com/user-attachments/assets/b046ceee-6dab-411e-af7f-c8405807029f)
 
 
 
