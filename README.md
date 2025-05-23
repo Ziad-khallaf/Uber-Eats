@@ -1,4 +1,4 @@
-# 📊 Uber Eats Analysis
+[Uber_Eats_EDA.pdf](https://github.com/user-attachments/files/20410740/Uber_Eats_EDA.pdf)# 📊 Uber Eats Analysis
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg) ![Power BI](https://img.shields.io/badge/Power%20BI-Report-orange.svg) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-blue.svg) ![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-green.svg)
 
@@ -20,8 +20,8 @@ The project consists of:
 ## 📊 Dashboard View
 
 Here's a glimpse of the interactive Power BI dashboard:
+![Dashboard Preview](REPORT.png)
 
-![Uber Eats Dashboard](![REPORT](https://github.com/user-attachments/assets/a9acf3f3-cb8d-4a8e-99c6-5666cea5db68)[Uber_Eats_EDA.pdf](https://github.com/user-attachments/files/20410705/Uber_Eats_EDA.pdf))
 
 
 ## 📈 Key Insights
